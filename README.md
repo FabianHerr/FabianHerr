@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋 I'm Fabian Herrera
 
-<!--
-**FabianHerr/FabianHerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **About Me**:  
+I'm a **Computer Science student** at **McGill University**, passionate about:  
+- 💻 Exploring the world of **coding** and turning ideas into impactful projects.  
+- 🧠 Tackling **problem-solving challenges** with creativity and determination.  
+- 🚀 Building **innovative applications** to make a difference.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **What I'm Up To**:  
+- 📚 Learning **data structures and algorithms** to strengthen my problem-solving skills.  
+- 🌟 Exploring the basics of **web development** with HTML, CSS, and JavaScript.  
+- 🛠️ Working on personal projects to enhance my programming knowledge.  
+
+---
+
+🎓 **About Me**:  
+I’m constantly learning, creating, and sharing my passion for coding. Stay tuned for exciting updates on my projects and progress!
+
+---
+
+🌐 **Connect with Me**:  
+Feel free to reach out and connect on:  
+- [LinkedIn](https://www.linkedin.com/in/fabian-herrera-4bba08288)  
+
+---
+
+💻 **Tech Stack**:  
+**Languages**: Python, C++, Java, HTML/CSS  
+**Developer Tools**: Git, Visual Studio Code.
+**Learning**: SQL

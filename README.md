@@ -3,7 +3,7 @@
 🌟 **About Me**:  
 I'm a **Computer Science student** at **McGill University**, passionate about:  
 - 💻 Exploring the world of **coding** and turning ideas into impactful projects.  
-- 🧠 Tackling **problem-solving challenges** with creativity and determination.  
+- 🧠 Tackling **problem-solving challenges** with creativity. 
 - 🚀 Building **innovative applications** to make a difference.
 
 ---

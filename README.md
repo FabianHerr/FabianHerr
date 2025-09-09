@@ -1,32 +1,45 @@
 # Hi 👋 I'm Fabian Herrera
 
-🌟 **About Me**:  
-I'm a **Software Engineering student** at **McGill University**, passionate about:  
-- 💻 Exploring the world of **coding** and turning ideas into impactful projects.  
-- 🧠 Tackling **problem-solving challenges** with creativity. 
-- 🚀 Building **innovative applications** to make a difference.
+🌟 **About Me**  
+I’m a **Software Engineering student at McGill University** (with a Minor in Entrepreneurship).  
+I love turning ideas into real projects — whether that’s a full-stack app, a machine learning model, or just something fun I built to learn.  
+I’m curious, creative, and always looking for ways to push my skills further.  
 
 ---
 
-🚀 **What I'm Up To**:  
-- 📚 Learning **data structures and algorithms** to strengthen my problem-solving skills.  
-- 🌟 Exploring the basics of **web development** with HTML, CSS, and JavaScript.  
-- 🛠️ Working on personal projects to enhance my programming knowledge.  
+🚀 **What I'm Up To**  
+- 📚 Getting better at **data structures & algorithms** (and enjoying the challenge)  
+- 🔄 Building **Swap**, a P2P currency exchange app I started from scratch  
+- 🏡 Playing around with **machine learning** projects in Python  
+- 💡 Always brainstorming new project ideas to bring to life  
 
 ---
 
-🎓 **About Me**:  
-I’m constantly learning, creating, and sharing my passion for coding. Stay tuned for exciting updates on my projects and progress!
+🎓 **Projects & Experience**  
+- 🔄 **Swap – P2P Currency Exchange Web App** *(2025 – Present)*  
+  My biggest project so far: a full-stack app with **Node.js/Express**, **MongoDB**, **React**, and **JWT auth**.  
+
+- ✅ **Todo Web App** *(2025)*  
+  A simple but polished task manager built with **JavaScript, Webpack, and Web Storage API**.  
+
+- 🏡 **House Price Prediction Model** *(Dawson AI R&D, 2023–2024)*  
+  Worked with my team on a linear regression model to predict prices with ~80% accuracy.  
+  Learned a ton about **data cleaning, evaluation, and presenting results**.  
+
+- 🧑‍🤝‍🧑 **AJOI Activity Leader** *(2024 – Present)*  
+  Outside of coding, I work with youth in my community — building trust, creating activities, and supporting over 500+ people a year.  
 
 ---
 
-🌐 **Connect with Me**:  
-Feel free to reach out and connect on:  
-- [LinkedIn](https://www.linkedin.com/in/fabian-herrera-4bba08288)  
+💻 **Tech Stack**  
+- **Languages**: Python, JavaScript, Java, C++, R, HTML/CSS  
+- **Frameworks & Libraries**: React, Node.js, Express, Mongoose, Bootstrap, Pandas, NumPy, scikit-learn  
+- **Databases**: MongoDB, SQLite  
+- **Tools**: Git/GitHub, Jupyter Notebook, VS Code, Canva, Figma  
+- **Currently Learning**: SQL  
 
 ---
 
-💻 **Tech Stack**:  
-**Languages**: Python, C++, Java, HTML/CSS  
-**Developer Tools**: Git, Visual Studio Code.
-**Learning**: SQL
+🌐 **Connect with Me**  
+- 📧 [fabianherrerap73@gmail.com](mailto:fabianherrerap73@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/fabian-herrera-4bba08288)  

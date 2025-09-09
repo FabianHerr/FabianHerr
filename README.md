@@ -15,19 +15,12 @@ I’m curious, creative, and always looking for ways to push my skills further.
 
 ---
 
-🎓 **Projects & Experience**  
+🎓 **Recent Projects**  
 - 🔄 **Swap – P2P Currency Exchange Web App** *(2025 – Present)*  
   My biggest project so far: a full-stack app with **Node.js/Express**, **MongoDB**, **React**, and **JWT auth**.  
 
 - ✅ **Todo Web App** *(2025)*  
   A simple but polished task manager built with **JavaScript, Webpack, and Web Storage API**.  
-
-- 🏡 **House Price Prediction Model** *(Dawson AI R&D, 2023–2024)*  
-  Worked with my team on a linear regression model to predict prices with ~80% accuracy.  
-  Learned a ton about **data cleaning, evaluation, and presenting results**.  
-
-- 🧑‍🤝‍🧑 **AJOI Activity Leader** *(2024 – Present)*  
-  Outside of coding, I work with youth in my community — building trust, creating activities, and supporting over 500+ people a year.  
 
 ---
 

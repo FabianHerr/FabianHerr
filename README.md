@@ -1,38 +1,40 @@
 # Hi 👋 I'm Fabian Herrera
 
 🌟 **About Me**  
-I’m a **Software Engineering student at McGill University** (with a Minor in Entrepreneurship).  
-I love turning ideas into real projects — whether that’s a full-stack app, a machine learning model, or just something fun I built to learn.  
-I’m curious, creative, and always looking for ways to push my skills further.  
+I'm a **B.Sc. Software Engineering student at McGill University** (Minor in Entrepreneurship), passionate about building things that solve real problems.  
+From **full-stack apps** to **data pipelines** and **AI voice agents**, I love taking ideas from concept to production. Curious, creative, and always pushing my skills further.
 
 ---
 
 🚀 **What I'm Up To**  
-- 📚 Getting better at **data structures & algorithms** (and enjoying the challenge)  
-- 🔄 Building **Swap**, a P2P currency exchange app I started from scratch  
-- 🏡 Playing around with **machine learning** projects in Python  
-- 💡 Always brainstorming new project ideas to bring to life  
+- 🤖 Building **AI voice agents** and **ETL/ML pipelines** as a Data Engineering & Analytics Intern at Transport Laberge  
+- 📊 Working with **Power BI**, **Python**, and **SQL** to turn raw data into actionable insights  
+- 🔄 Developing **Swap**, a P2P currency exchange app I built from scratch  
+- 📚 Deepening my foundations in **data structures, algorithms & systems design**
 
 ---
 
-🎓 **Recent Projects**  
-- 🔄 **Swap – P2P Currency Exchange Web App** *(2025 – Present)*  
-  My biggest project so far: a full-stack app with **Node.js/Express**, **MongoDB**, **React**, and **JWT auth**.  
+💼 **Experience Highlights**  
+- **Data Engineering & Analytics Intern @ Transport Laberge** — built ETL pipelines processing 20M+ records, developed Power BI dashboards tracking key operational KPIs, and deployed an AI voice agent integrated with internal transport systems.
 
-- ✅ **Todo Web App** *(2025)*  
-  A simple but polished task manager built with **JavaScript, Webpack, and Web Storage API**.  
+---
+
+🎓 **Featured Projects**  
+- 🔄 **Swap – P2P Currency Exchange Web App** *(2025 – Present)*  
+  A full-stack app built with **Node.js/Express**, **MongoDB**, **React**, and **JWT auth**.  
+- 🎮 **Logbait – Cloud-Integrated Roguelike Game** *(2026 – Present)*  
+  Gameplay systems, modular ability framework, and enemy AI built in **C#/Unity** as part of an 8-person Agile team.
 
 ---
 
 💻 **Tech Stack**  
-- **Languages**: Python, JavaScript, Java, C++, R, HTML/CSS  
-- **Frameworks & Libraries**: React, Node.js, Express, Mongoose, Bootstrap, Pandas, NumPy, scikit-learn  
-- **Databases**: MongoDB, SQLite  
-- **Tools**: Git/GitHub, Jupyter Notebook, VS Code, Canva, Figma  
-- **Currently Learning**: SQL  
+- **Languages**: Python, JavaScript, Java, C#, R, SQL, HTML/CSS, Bash  
+- **Frameworks & Libraries**: React, Node.js, Express, Mongoose, Pandas, NumPy, scikit-learn  
+- **Data & Cloud**: Power BI, Power Automate, Supabase, MongoDB, Azure DevOps, Vercel  
+- **Tools**: Git/GitHub, Jupyter, VS Code, Figma  
 
 ---
 
 🌐 **Connect with Me**  
 - 📧 [fabianherrerap73@gmail.com](mailto:fabianherrerap73@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/fabian-herrera-4bba08288)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/fabian-herrera-4bba08288)

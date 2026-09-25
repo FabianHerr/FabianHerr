@@ -31,4 +31,4 @@ Shipped to itch.io with an 8-person team. Owned the core gameplay loop in Unity/
 **Languages spoken:** English, French, Spanish
 
 ## Connect
-[Email](mailto:fabianherrerap73@gmail.com) · [LinkedIn](https://www.linkedin.com/in/fabian-herrera-4bba08288) · [Portfolio](PORTFOLIO_LINK)
+[Email](mailto:fabianherrerap73@gmail.com) · [LinkedIn](https://www.linkedin.com/in/fabian-herrera-4bba08288) · [Portfolio](https://portfolio-ten-fawn-hjbfvqboh3.vercel.app/)

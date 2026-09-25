@@ -1,40 +1,31 @@
-# Hi 👋 I'm Fabian Herrera
+# Fabian Herrera
 
-🌟 **About Me**  
-I'm a **B.Sc. Software Engineering student at McGill University** (Minor in Entrepreneurship), passionate about building things that solve real problems.  
-From **full-stack apps** to **data pipelines** and **AI voice agents**, I love taking ideas from concept to production. Curious, creative, and always pushing my skills further.
+Software Engineering student at **McGill University** (Minor in Entrepreneurship) working across data engineering, applied AI, and full-stack development. I enjoy taking ideas from concept to production and building systems that hold up in real use.
 
----
+## Currently
+- Starting as a **[Role] Intern at [Company]** (September 2026)
+- Building **Swap**, a live peer-to-peer currency exchange platform
+- B.Sc. Software Engineering, McGill University (expected 2028)
 
-🚀 **What I'm Up To**  
-- 🤖 Building **AI voice agents** and **ETL/ML pipelines** as a Data Engineering & Analytics Intern at Transport Laberge  
-- 📊 Working with **Power BI**, **Python**, and **SQL** to turn raw data into actionable insights  
-- 🔄 Developing **Swap**, a P2P currency exchange app I built from scratch  
-- 📚 Deepening my foundations in **data structures, algorithms & systems design**
+## Experience
+**Data Engineering & Analytics Intern, Transport Laberge** · Jan – Jun 2026
+- Built ETL pipelines in Python and SQL processing 20M+ records, replacing manual ingestion with production-ready ML data flows
+- Developed an AI voice agent connecting OpenAI APIs to internal transport systems to answer operational questions and trigger dispatcher workflows
+- Deployed a post-call email automation API on Vercel using Vapi and Supabase
+- Built Power BI reports tracking operational KPIs (FTFR, MTBF, TCO)
 
----
+## Featured Projects
+**[Swap](SWAP_REPO_LINK)**: P2P Currency Exchange · 2025 – Present  
+React 19 + Vite frontend, Express 5 API on Render, MongoDB Atlas, and JWT auth. Users create offers from a single typed sentence using deterministic parsing with a Gemini API fallback, and every AI response is revalidated so the feature degrades gracefully instead of failing.
 
-💼 **Experience Highlights**  
-- **Data Engineering & Analytics Intern @ Transport Laberge** — built ETL pipelines processing 20M+ records, developed Power BI dashboards tracking key operational KPIs, and deployed an AI voice agent integrated with internal transport systems.
+**[Logbait](ITCH_IO_LINK)**: Browser Roguelike · Jan – May 2026  
+Shipped to itch.io with an 8-person team. Owned the core gameplay loop in Unity/C# and designed a modular ability system that let teammates add new powers without touching combat code.
 
----
+## Tech Stack
+**Languages:** Python, JavaScript, Java, C#, SQL, R, HTML/CSS, Bash  
+**Frameworks & Libraries:** React, Node.js, Express, Mongoose, Pandas, NumPy, scikit-learn  
+**Data & Cloud:** MongoDB, Supabase, Vercel, Render, Power BI, Power Automate, Azure DevOps  
+**Tools:** Git/GitHub, Jupyter, VS Code, Unity, Figma
 
-🎓 **Featured Projects**  
-- 🔄 **Swap – P2P Currency Exchange Web App** *(2025 – Present)*  
-  A full-stack app built with **Node.js/Express**, **MongoDB**, **React**, and **JWT auth**.  
-- 🎮 **Logbait – Cloud-Integrated Roguelike Game** *(2026 – Present)*  
-  Gameplay systems, modular ability framework, and enemy AI built in **C#/Unity** as part of an 8-person Agile team.
-
----
-
-💻 **Tech Stack**  
-- **Languages**: Python, JavaScript, Java, C#, R, SQL, HTML/CSS, Bash  
-- **Frameworks & Libraries**: React, Node.js, Express, Mongoose, Pandas, NumPy, scikit-learn  
-- **Data & Cloud**: Power BI, Power Automate, Supabase, MongoDB, Azure DevOps, Vercel  
-- **Tools**: Git/GitHub, Jupyter, VS Code, Figma  
-
----
-
-🌐 **Connect with Me**  
-- 📧 [fabianherrerap73@gmail.com](mailto:fabianherrerap73@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/fabian-herrera-4bba08288)
+## Connect
+[Email](mailto:fabianherrerap73@gmail.com) · [LinkedIn](https://www.linkedin.com/in/fabian-herrera-4bba08288) · [Portfolio](PORTFOLIO_LINK)

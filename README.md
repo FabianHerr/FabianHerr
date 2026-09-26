@@ -15,10 +15,10 @@ Software Engineering student at **McGill University** (Minor in Entrepreneurship
 - Built Power BI reports tracking operational KPIs (FTFR, MTBF, TCO)
 
 ## Featured Projects
-**[Swap](SWAP_REPO_LINK)**: P2P Currency Exchange · 2025 – Present  
+**[Swap](https://swap-kappa-eight.vercel.app/)**: P2P Currency Exchange · 2025 – Present  
 React 19 + Vite frontend, Express 5 API on Render, MongoDB Atlas, and JWT auth. Users create offers from a single typed sentence: deterministic rules handle most inputs, the Gemini API is called only on ambiguity, and every model response is revalidated against the form's rules so the feature degrades to a partial fill instead of failing.
 
-**[Logbait](ITCH_IO_LINK)**: Browser Roguelike · Jan – May 2026  
+**[Logbait](https://fabianherr.itch.io/yamaz)**: Browser Roguelike · Jan – May 2026  
 Shipped to itch.io with an 8-person team. Owned the core gameplay loop in Unity/C# and designed a modular ability system that let teammates add new powers without touching combat code.
 
 ## Tech Stack
@@ -31,4 +31,4 @@ Shipped to itch.io with an 8-person team. Owned the core gameplay loop in Unity/
 **Languages spoken:** English, French, Spanish
 
 ## Connect
-[Email](mailto:fabianherrerap73@gmail.com) · [LinkedIn](https://www.linkedin.com/in/fabian-herrera-4bba08288) · [Portfolio](https://fabianh-portfolio.vercel.app/)
+[Email](mailto:fabianherrerap73@gmail.com) · [LinkedIn](https://www.linkedin.com/in/fabian-herrera-pena/) · [Portfolio](https://fabianh-portfolio.vercel.app/)
